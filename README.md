@@ -11,21 +11,18 @@
 </div>
 
 ---
-### 💻 My Skill Level Chart
+### 💻 Skill Levels
 
-<p align="center">
-  <img src="https://quickchart.io/chart/render/zf-70b1b58f-61e4-4a1a-9bcb-66e0fd95f101" width="500" alt="Skill Radar Chart">
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-95%25-ff6b6b?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-90%25-ffd166?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-ffd54f?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-80%25-4fc3f7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-70%25-ff9aa2?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-82%25-8bc34a?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-75%25-4dbf3c?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-88%25-61dafb?style=for-the-badge&logo=react&logoColor=black" />
 </p>
-
-> 🧠 **Skill Ratings (Out of 100):**
-> - HTML: 95  
-> - CSS: 90  
-> - JavaScript: 85  
-> - Python: 80  
-> - C Programming: 70  
-> - Node.js: 82  
-> - MongoDB: 75  
-> - React: 88
 ### 🧠 About Me
 
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
