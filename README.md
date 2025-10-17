@@ -1,53 +1,44 @@
-#<!--- 👋 Hi, I’m Saif Hasan -->
+<!-- 🌈  Animated, Aesthetic, and Modern GitHub README -->
 
-<h1 align="center">Hi 👋, I'm Saif Hasan</h1>
-<h3 align="center">💻 A passionate developer from Bangladesh</h3>
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **a Hostel Management App**  
-- 🌱 I’m learning **C Programming, Python & JavaScript**  
-- 💡 I love building **Web, Mobile & Software Applications**  
-- 🎯 My goal: **Create useful tech tools that help people**  
-- ⚡ Fun fact: *I code better at night with lo-fi music 🎧*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Saif+Hasan!;Full+Stack+Developer+from+Bangladesh;I+love+building+smart+and+beautiful+apps!" alt="Typing Animation" />
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,express,mongodb,c,androidstudio,vscode,github,git,react,tailwind" />
-</p>
+### 🧩 About Me
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+🌍 **Name:** Saif Hasan  
+🏫 **Age:** 17  
+📍 **From:** Bangladesh  
+💡 **Interests:** Web, Mobile, and Software Development  
+🚀 **Goal:** Build powerful digital tools for businesses and students  
+🎨 **Hobbies:** Coding, photography, and exploring tech innovations  
+
+🧠 **Currently Working On:** Hostel Management App (manual payment system)  
+📚 **Learning:** C, Python, JavaScript  
+💬 **Ask Me About:** Web apps, UI/UX design, or app logic  
+⚡ **Fun fact:** I can code all night with lo-fi music 🎧  
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Languages & Tools
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saifhasan2&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifhasan2&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,express,mongodb,react,tailwind,androidstudio,vscode,github,git,c,figma&perline=7" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/your-instagram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+### 🌈 Tech Stack Visualization
 
----
-
-### 🧠 Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
-
----
-
-### 🪶 Visitors
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saifhasan2&label=Profile%20views&color=0e75b6&style=flat" alt="saifhasan2" />
-</p>
-
----
-
-⭐ **If you like my work, consider following me or giving a star to my repositories!**
+```mermaid
+graph TD;
+    A[Frontend] -->|HTML/CSS/JS| B(React/Tailwind);
+    B --> C[Backend];
+    C -->|API & Auth| D(Node.js/Express);
+    D --> E[Database: MongoDB];
+    E --> F[Hosting: Vercel/Render];
+    F --> G[Mobile App with Android Studio];
