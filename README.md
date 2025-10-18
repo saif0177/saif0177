@@ -1,45 +1,80 @@
-<!-- 💫 Designed with Love by Saif Hasan -->
-<!-- Header Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=F8D210&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Saif+Hasan+💻;Full+Stack+Developer+from+Bangladesh;Tech+is+My+Art+🎨" alt="Typing SVG">
-</div>
+<h1 align="center">Hi 👋! My name is <br>SAIF HASAN</h1>
 
----
+###
 
-<div align="center">
-  <img src="https://i.imgur.com/5JgZk8k.gif" width="100%" alt="gradient banner">
-</div>
+<p align="left">From : Bangladesh<br>Age : 17<br>Current Focus : Hostel Management App<br>Passion : Creating innovative digital tools for businesses & students<br>Hobbies : Coding, design, travel, and photography<br>Fun fact : My productivity doubles with lo-fi music</p>
 
----
-### 💻 Skill Levels
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-95%25-ff6b6b?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-90%25-ffd166?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-85%25-ffd54f?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-80%25-4fc3f7?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-70%25-ff9aa2?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-82%25-8bc34a?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-75%25-4dbf3c?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-88%25-61dafb?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-### 🧠 About Me
-
+###
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-💫 **Name:** Saif Hasan  
-📍 **From:** Bangladesh  
-🎓 **Age:** 17  
-🚀 **Current Focus:** Hostel Management App  
-🌱 **Learning:** C, Python, JavaScript, Node.js  
-💡 **Passion:** Creating innovative digital tools for businesses & students  
-🎨 **Hobbies:** Coding, design, travel, and photography  
-🎧 **Fun fact:** My productivity doubles with lo-fi music 🎵  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saif0177&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saif0177&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 🌈 Skill Level Graph
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/saif360h?igsh=MXQ3OGJyNmQ1eDFp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="35" alt="instagram logo"  />
+  </a>
+  <a href="Saif360h@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/share/1JSE9SvHGJ/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="85" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots /3848914/programmer.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Saif0177?theme=original-old&padding=5&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
+</div>
+
+###
 #### 💻 Technical Skills Overview
 ```mermaid
 %% Mermaid Graph for Skill Proficiency %%
