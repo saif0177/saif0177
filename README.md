@@ -29,9 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
-<img src="https://raw.githubusercontent.com/Saif0177/Saif0177/output/snake.svg" alt="Snake animation" />
 
-###
 ###
 
 <div align="left">
@@ -51,7 +49,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
+###
 
+<img src="https://raw.githubusercontent.com/Saif0177/Saif0177/output/snake.svg" alt="Snake animation" />
 ###
 
 <div align="center">
